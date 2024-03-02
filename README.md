@@ -18,7 +18,7 @@ https://arxiv.org/abs/2402.16153
 https://ezmonyi.github.io/ChatMusician/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-02 221454](https://github.com/camenduru/ChatMusician-jupyter/assets/54370274/2661ad0d-0472-49ed-b764-7ca2766a1a08)
 
 ### 🏢 Sponsor
 https://replicate.com
